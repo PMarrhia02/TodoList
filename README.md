@@ -1,1 +1,2 @@
+This project is an interactive Todo List component designed using only HTML, CSS, and JavaScript. The component allows users to categorize todos into four distinct status types: Backlog, To Do, Ongoing, and Done. Each status is represented by its own card, and todos can be navigated between these status categories using dedicated buttons. The component is responsive and ensures smooth transitions of todos between statuses.
 
